@@ -1,0 +1,13 @@
+///////////////////////////////////////////////////////////////////////////////
+// Project:     wxPDFJS
+// File Name:   wxpdfjs.rc
+// Purpose:     Windows resource file for wxPDFJS
+// Author:      PB
+// Created:     2024-10-27
+// Copyright:   (c) 2024 PB
+// Licence:     wxWindows licence
+///////////////////////////////////////////////////////////////////////////////
+
+#include "wx/msw/wx.rc"
+
+appIcon ICON "wx/msw/std.ico"
